@@ -1,4 +1,4 @@
-import { Graph, AbstractNode, INodeUpdateEventData, Editor, CalculationResult } from "@baklavajs/core";
+import { Graph, AbstractNode, INodeUpdateEventData, Editor, CalculationResult } from "@onegen-baklavajs/core";
 import { BaseEngine } from "../src";
 import { TestNode } from "./testNode";
 

@@ -1,5 +1,5 @@
 import { inject, provide, ref, Ref } from "vue";
-import { NodeInterface } from "@baklavajs/core";
+import { NodeInterface } from "@onegen-baklavajs/core";
 import { ITemporaryConnection, TemporaryConnectionState } from "../connection/connection";
 import { useGraph } from "../utility";
 

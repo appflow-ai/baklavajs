@@ -4,7 +4,7 @@
 
 <script lang="ts">
 import { computed, defineComponent, ref, onBeforeUnmount, onMounted, nextTick, watch } from "vue";
-import { Connection } from "@baklavajs/core";
+import { Connection } from "@onegen-baklavajs/core";
 import ConnectionView from "./ConnectionView.vue";
 import resolveDom, { IResolvedDomElements } from "./domResolver";
 import { TemporaryConnectionState } from "./connection";

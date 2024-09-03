@@ -1,6 +1,6 @@
-import { NodeInterface, defineNode } from "@baklavajs/core";
-import { allowMultipleConnections } from "@baklavajs/engine";
-import { setTypeForMultipleConnections } from "@baklavajs/interface-types";
+import { NodeInterface, defineNode } from "@onegen-baklavajs/core";
+import { allowMultipleConnections } from "@onegen-baklavajs/engine";
+import { setTypeForMultipleConnections } from "@onegen-baklavajs/interface-types";
 import { stringType } from "./interfaceTypes";
 
 export default defineNode({

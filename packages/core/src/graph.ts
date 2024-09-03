@@ -7,7 +7,7 @@ import {
     PreventableBaklavaEvent,
     SequentialHook,
     ParallelHook,
-} from "@baklavajs/events";
+} from "@onegen-baklavajs/events";
 import { Connection, DummyConnection, IConnection, IConnectionState } from "./connection";
 import type { Editor } from "./editor";
 import { type GraphTemplate } from "./graphTemplate";

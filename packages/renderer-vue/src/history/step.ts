@@ -1,4 +1,4 @@
-import { Graph } from "@baklavajs/core";
+import { Graph } from "@onegen-baklavajs/core";
 
 export interface IStep {
     type: string;

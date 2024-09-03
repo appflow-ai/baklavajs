@@ -5,7 +5,7 @@ import {
     IBaklavaEventEmitter,
     IBaklavaTapable,
     createProxy,
-} from "@baklavajs/events";
+} from "@onegen-baklavajs/events";
 import type { Connection } from "./connection";
 import type { IAddNodeTypeEventData, IRegisterNodeTypeOptions } from "./eventDataTypes";
 import { Graph, IGraphState } from "./graph";

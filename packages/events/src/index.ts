@@ -1,5 +1,5 @@
 /**
- * @module @baklavajs/events
+ * @module @onegen-baklavajs/events
  */
 
 export * from "./event";

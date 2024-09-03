@@ -7,7 +7,7 @@ import {
     GRAPH_OUTPUT_NODE_TYPE,
     INodeState,
     IConnectionState,
-} from "@baklavajs/core";
+} from "@onegen-baklavajs/core";
 import { v4 as uuidv4 } from "uuid";
 import { reactive, Ref } from "vue";
 import type { ICommand, ICommandHandler } from "../commands";

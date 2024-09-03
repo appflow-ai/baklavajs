@@ -1,5 +1,5 @@
 /**
- * @module @baklavajs/engine
+ * @module @onegen-baklavajs/engine
  */
 
 export * from "./applyResult";

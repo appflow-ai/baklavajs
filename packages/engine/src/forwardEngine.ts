@@ -2,7 +2,7 @@
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-nocheck
 // TODO: Reenable ESLint rule after implementation
-import { AbstractNode, Graph, INodeUpdateEventData } from "@baklavajs/core";
+import { AbstractNode, Graph, INodeUpdateEventData } from "@onegen-baklavajs/core";
 import { BaseEngine, CalculationResult } from "./baseEngine";
 
 export class ForwardEngine<CalculationData = any> extends BaseEngine<

@@ -66,7 +66,7 @@
 
 <script setup lang="ts">
 import { ref, computed, nextTick, onUpdated, onMounted, onBeforeUnmount } from "vue";
-import { AbstractNode, GRAPH_NODE_TYPE_PREFIX, IGraphNode } from "@baklavajs/core";
+import { AbstractNode, GRAPH_NODE_TYPE_PREFIX, IGraphNode } from "@onegen-baklavajs/core";
 import { useGraph, useViewModel } from "../utility";
 
 import { ContextMenu } from "../contextmenu";

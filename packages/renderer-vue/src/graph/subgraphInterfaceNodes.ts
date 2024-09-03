@@ -5,12 +5,12 @@ import {
     GRAPH_OUTPUT_NODE_TYPE,
     GraphInputNode,
     GraphOutputNode,
-} from "@baklavajs/core";
+} from "@onegen-baklavajs/core";
 import { TextInputInterface } from "../nodeinterfaces";
 
-/** @deprecated use GRAPH_INPUT_NODE_TYPE from the @baklavajs/core package instead */
+/** @deprecated use GRAPH_INPUT_NODE_TYPE from the @onegen-baklavajs/core package instead */
 export const SUBGRAPH_INPUT_NODE_TYPE = GRAPH_INPUT_NODE_TYPE;
-/** @deprecated use GRAPH_OUTPUT_NODE_TYPE from the @baklavajs/core package instead */
+/** @deprecated use GRAPH_OUTPUT_NODE_TYPE from the @onegen-baklavajs/core package instead */
 export const SUBGRAPH_OUTPUT_NODE_TYPE = GRAPH_OUTPUT_NODE_TYPE;
 
 export class SubgraphInputNode extends GraphInputNode {

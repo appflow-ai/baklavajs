@@ -1,5 +1,5 @@
 import { Ref, computed, ref, reactive } from "vue";
-import { AbstractNode } from "@baklavajs/core";
+import { AbstractNode } from "@onegen-baklavajs/core";
 import { IMenuItem } from "../contextmenu";
 import { IBaklavaViewModel } from "../viewModel";
 import { isInputElement, useNodeCategories, useTransform } from "../utility";

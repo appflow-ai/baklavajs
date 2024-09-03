@@ -1,4 +1,4 @@
-import { Graph, INodeState } from "@baklavajs/core";
+import { Graph, INodeState } from "@onegen-baklavajs/core";
 import { IStep } from "./step";
 
 export default class NodeStep implements IStep {

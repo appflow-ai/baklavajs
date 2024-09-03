@@ -23,7 +23,7 @@
 <script setup lang="ts">
 import { computed, CSSProperties, inject, Ref, ref, reactive } from "vue";
 import { usePointer } from "@vueuse/core";
-import { AbstractNode, INodeTypeInformation } from "@baklavajs/core";
+import { AbstractNode, INodeTypeInformation } from "@onegen-baklavajs/core";
 import PaletteEntry from "./PaletteEntry.vue";
 import { useViewModel, useTransform, useNodeCategories } from "../utility";
 

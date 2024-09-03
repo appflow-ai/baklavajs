@@ -1,5 +1,5 @@
 import { Ref } from "vue";
-import { Graph } from "@baklavajs/core";
+import { Graph } from "@onegen-baklavajs/core";
 import type { ICommand, ICommandHandler } from "../commands";
 import { COMMIT_TRANSACTION_COMMAND, START_TRANSACTION_COMMAND } from "../history";
 

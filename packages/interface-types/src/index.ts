@@ -1,10 +1,10 @@
 /**
- * @module @baklavajs/interface-types
+ * @module @onegen-baklavajs/interface-types
  */
 
-import type { Editor, NodeInterface } from "@baklavajs/core";
-import type { IBaklavaViewModel } from "@baklavajs/renderer-vue";
-import type { BaseEngine } from "@baklavajs/engine";
+import type { Editor, NodeInterface } from "@onegen-baklavajs/core";
+import type { IBaklavaViewModel } from "@onegen-baklavajs/renderer-vue";
+import type { BaseEngine } from "@onegen-baklavajs/engine";
 
 export interface IConversion<I, O> {
     targetType: string;

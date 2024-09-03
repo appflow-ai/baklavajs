@@ -1,4 +1,4 @@
-import { AbstractNode, Editor, CalculationResult } from "@baklavajs/core";
+import { AbstractNode, Editor, CalculationResult } from "@onegen-baklavajs/core";
 
 /**
  * Apply the calculation result values to the output interfaces in the graph

@@ -1,4 +1,4 @@
-import { Graph } from "@baklavajs/core";
+import { Graph } from "@onegen-baklavajs/core";
 import { IStep } from "./step";
 
 export default class TransactionStep implements IStep {

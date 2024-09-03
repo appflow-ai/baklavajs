@@ -1,4 +1,4 @@
-import { defineNode, NodeInterface } from "@baklavajs/core";
+import { defineNode, NodeInterface } from "@onegen-baklavajs/core";
 
 export const TestNode = defineNode({
     type: "TestNode",

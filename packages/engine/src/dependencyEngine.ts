@@ -1,4 +1,4 @@
-import type { Editor, Graph, NodeInterface, CalculationResult } from "@baklavajs/core";
+import type { Editor, Graph, NodeInterface, CalculationResult } from "@onegen-baklavajs/core";
 import { BaseEngine } from "./baseEngine";
 import { ITopologicalSortingResult, sortTopologically } from "./topologicalSorting";
 

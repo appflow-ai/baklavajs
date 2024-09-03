@@ -1,4 +1,4 @@
-import { NodeInterface, defineNode } from "@baklavajs/core";
+import { NodeInterface, defineNode } from "@onegen-baklavajs/core";
 import { TextareaInputInterface } from "../src/nodeinterfaces/textareainput/TextareaInputInterface";
 import { TextInputInterface } from "../src";
 

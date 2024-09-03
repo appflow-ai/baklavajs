@@ -1,4 +1,4 @@
-import { Editor } from "@baklavajs/core";
+import { Editor } from "@onegen-baklavajs/core";
 import { BaklavaInterfaceTypes, NodeInterfaceType } from "../src";
 
 describe("BaklavaInterfaceTypes", () => {

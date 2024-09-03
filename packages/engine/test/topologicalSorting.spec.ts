@@ -1,4 +1,4 @@
-import { IConnection } from "@baklavajs/core";
+import { IConnection } from "@onegen-baklavajs/core";
 import { TestNode } from "./testNode";
 import { containsCycle, CycleError, sortTopologically } from "../src";
 

@@ -1,5 +1,5 @@
 import { computed, ComputedRef, reactive, ref, Ref, watch } from "vue";
-import { AbstractNode } from "@baklavajs/core";
+import { AbstractNode } from "@onegen-baklavajs/core";
 import { useGraph, useViewModel } from "../utility";
 import { ICommand } from "../commands";
 

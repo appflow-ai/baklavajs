@@ -1,5 +1,5 @@
 import { computed, nextTick, Ref, ref, watch } from "vue";
-import { NodeInterface } from "@baklavajs/core";
+import { NodeInterface } from "@onegen-baklavajs/core";
 
 const MAX_STRING_LENGTH = 9;
 
