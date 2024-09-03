@@ -28,7 +28,7 @@
 </template>
 
 <script setup lang="ts">
-import { computed, onMounted, onUpdated, Ref, ref } from "vue";
+import { computed, onBeforeUnmount, onMounted, onUpdated, Ref, ref } from "vue";
 import { AbstractNode, NodeInterface } from "@baklavajs/core";
 import { useViewModel } from "../utility";
 import { useTemporaryConnection } from "../editor/temporaryConnection";
@@ -89,4 +89,8 @@ const openSidebar = () => {
 
 onMounted(onRender);
 onUpdated(onRender);
+
+onBeforeUnmount(() => {
+    hoveredOver(undefined);
+});
 </script>
