@@ -1,4 +1,4 @@
-import { IConnectionState, IConnection, Graph } from "@baklavajs/core";
+import { IConnectionState, IConnection, Graph } from "@onegen-baklavajs/core";
 import { IStep } from "./step";
 
 export default class ConnectionStep implements IStep {

@@ -1,5 +1,5 @@
 /**
- * @module @baklavajs/renderer-vue
+ * @module @onegen-baklavajs/renderer-vue
  */
 
 export * from "./overrides";

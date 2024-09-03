@@ -1,4 +1,4 @@
-import { Node } from "@baklavajs/core";
+import { Node } from "@onegen-baklavajs/core";
 import { ButtonInterface, CheckboxInterface, SliderInterface } from "../src";
 
 interface Inputs {

@@ -5,7 +5,7 @@ import {
     SequentialHook,
     IBaklavaEventEmitter,
     IBaklavaTapable,
-} from "@baklavajs/events";
+} from "@onegen-baklavajs/events";
 import type { INodeUpdateEventData } from "./eventDataTypes";
 import type { Graph } from "./graph";
 import type { NodeInterfaceDefinition, NodeInterface, NodeInterfaceDefinitionStates } from "./nodeInterface";

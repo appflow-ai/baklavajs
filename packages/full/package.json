@@ -1,8 +1,7 @@
 {
-    "name": "baklavajs",
-    "version": "2.4.5",
+    "name": "@onegen/baklavajs",
+    "version": "1.0.0",
     "description": "Full installation of BaklavaJS including the core and all plugins",
-    "author": "newcat <freddy.wagner@web.de>",
     "homepage": "https://newcat.github.io/baklavajs",
     "license": "MIT",
     "files": [
@@ -20,20 +19,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/newcat/baklavajs.git"
+        "url": "git+https://github.com/appflow-ai/baklavajs.git"
     },
     "bugs": {
-        "url": "https://github.com/newcat/baklavajs/issues"
-    },
-    "publishConfig": {
-        "access": "public"
+        "url": "https://github.com/appflow-ai/baklavajs/issues"
     },
     "dependencies": {
-        "@baklavajs/core": "^2.4.4",
-        "@baklavajs/engine": "^2.4.4",
-        "@baklavajs/interface-types": "^2.4.5",
-        "@baklavajs/renderer-vue": "^2.4.5",
-        "@baklavajs/themes": "^2.4.4"
+        "@onegen-baklavajs/core": "^1.0.0",
+        "@onegen-baklavajs/engine": "^1.0.0",
+        "@onegen-baklavajs/interface-types": "^1.0.0",
+        "@onegen-baklavajs/renderer-vue": "^1.0.0",
+        "@onegen-baklavajs/themes": "^1.0.0"
     },
     "devDependencies": {
         "esbuild": "^0.20.2",

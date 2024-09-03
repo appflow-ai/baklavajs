@@ -1,4 +1,4 @@
-import { NodeInterface, defineNode } from "@baklavajs/core";
+import { NodeInterface, defineNode } from "@onegen-baklavajs/core";
 import { CheckboxInterface, NumberInterface, TextInputInterface, SelectInterface, SliderInterface } from "../src";
 
 export default defineNode({

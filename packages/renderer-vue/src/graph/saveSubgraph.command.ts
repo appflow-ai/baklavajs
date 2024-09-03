@@ -1,5 +1,5 @@
 import { Ref } from "vue";
-import { Graph } from "@baklavajs/core";
+import { Graph } from "@onegen-baklavajs/core";
 import type { ICommand, ICommandHandler } from "../commands";
 
 export const SAVE_SUBGRAPH_COMMAND = "SAVE_SUBGRAPH";

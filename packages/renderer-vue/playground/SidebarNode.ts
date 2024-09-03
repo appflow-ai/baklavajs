@@ -1,5 +1,5 @@
 import { markRaw } from "vue";
-import { defineNode, NodeInterface } from "@baklavajs/core";
+import { defineNode, NodeInterface } from "@onegen-baklavajs/core";
 import { NumberInterface, SelectInterface } from "../src";
 import { displayInSidebar } from "../src/sidebar";
 import SidebarButton from "./SidebarButton.vue";

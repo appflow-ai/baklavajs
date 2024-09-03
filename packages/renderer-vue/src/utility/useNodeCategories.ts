@@ -7,7 +7,7 @@ import {
     GRAPH_INPUT_NODE_TYPE,
     GRAPH_OUTPUT_NODE_TYPE,
     getGraphNodeTypeString,
-} from "@baklavajs/core";
+} from "@onegen-baklavajs/core";
 import { IBaklavaViewModel } from "../viewModel";
 
 /** This function checks, whether the given GraphNode would cause a recursion if placed in the specified current graph */

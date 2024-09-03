@@ -1,5 +1,5 @@
 import { type ComponentOptions, markRaw } from "vue";
-import { NodeInterface } from "@baklavajs/core";
+import { NodeInterface } from "@onegen-baklavajs/core";
 import TextInterfaceComponent from "./TextInterface.vue";
 
 export class TextInterface extends NodeInterface<string> {

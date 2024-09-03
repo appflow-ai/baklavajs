@@ -1,5 +1,5 @@
-import { defineNode, NodeInterface } from "@baklavajs/core";
-import { setType } from "@baklavajs/interface-types";
+import { defineNode, NodeInterface } from "@onegen-baklavajs/core";
+import { setType } from "@onegen-baklavajs/interface-types";
 import { SelectInterface } from "../src";
 import { numberType, stringType } from "./interfaceTypes";
 

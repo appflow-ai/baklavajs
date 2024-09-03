@@ -21,7 +21,7 @@
 
 <script lang="ts">
 import { computed, defineComponent, ref } from "vue";
-import { GRAPH_NODE_TYPE_PREFIX } from "@baklavajs/core";
+import { GRAPH_NODE_TYPE_PREFIX } from "@onegen-baklavajs/core";
 
 import { IMenuItem, ContextMenu } from "../contextmenu";
 import VerticalDots from "../icons/VerticalDots.vue";

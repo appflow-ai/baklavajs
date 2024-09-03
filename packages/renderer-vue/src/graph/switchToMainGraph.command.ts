@@ -1,4 +1,4 @@
-import { Graph } from "@baklavajs/core";
+import { Graph } from "@onegen-baklavajs/core";
 import { Ref } from "vue";
 import type { ICommand, ICommandHandler } from "../commands";
 import { SAVE_SUBGRAPH_COMMAND } from "./saveSubgraph.command";

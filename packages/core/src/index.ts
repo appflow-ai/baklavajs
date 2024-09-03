@@ -1,5 +1,5 @@
 /**
- * @module @baklavajs/core
+ * @module @onegen-baklavajs/core
  */
 
 export * from "./connection";

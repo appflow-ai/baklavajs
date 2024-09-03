@@ -1,4 +1,4 @@
-import { defineNode, NodeInterface } from "@baklavajs/core";
+import { defineNode, NodeInterface } from "@onegen-baklavajs/core";
 import { NumberInterface, SelectInterface } from "../src";
 
 export default defineNode({

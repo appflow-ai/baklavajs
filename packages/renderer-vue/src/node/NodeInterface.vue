@@ -29,7 +29,7 @@
 
 <script setup lang="ts">
 import { computed, onBeforeUnmount, onMounted, onUpdated, Ref, ref } from "vue";
-import { AbstractNode, NodeInterface } from "@baklavajs/core";
+import { AbstractNode, NodeInterface } from "@onegen-baklavajs/core";
 import { useViewModel } from "../utility";
 import { useTemporaryConnection } from "../editor/temporaryConnection";
 

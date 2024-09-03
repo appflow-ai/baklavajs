@@ -1,5 +1,5 @@
 import { v4 as uuidv4 } from "uuid";
-import { BaklavaEvent, IBaklavaEventEmitter } from "@baklavajs/events";
+import { BaklavaEvent, IBaklavaEventEmitter } from "@onegen-baklavajs/events";
 import type { NodeInterface } from "./nodeInterface";
 
 export interface IConnection {

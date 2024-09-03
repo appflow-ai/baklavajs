@@ -9,8 +9,8 @@ import {
     DummyConnection,
     CalculationResult,
     IEngine,
-} from "@baklavajs/core";
-import { BaklavaEvent, DynamicSequentialHook, PreventableBaklavaEvent, SequentialHook } from "@baklavajs/events";
+} from "@onegen-baklavajs/core";
+import { BaklavaEvent, DynamicSequentialHook, PreventableBaklavaEvent, SequentialHook } from "@onegen-baklavajs/events";
 import { containsCycle } from "./topologicalSorting";
 
 export enum EngineStatus {

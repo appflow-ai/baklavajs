@@ -1,7 +1,7 @@
-import * as Core from "@baklavajs/core";
-import * as Engine from "@baklavajs/engine";
-import * as InterfaceTypes from "@baklavajs/interface-types";
-import * as RendererVue from "@baklavajs/renderer-vue";
+import * as Core from "@onegen-baklavajs/core";
+import * as Engine from "@onegen-baklavajs/engine";
+import * as InterfaceTypes from "@onegen-baklavajs/interface-types";
+import * as RendererVue from "@onegen-baklavajs/renderer-vue";
 
 import { createApp, h } from "vue";
 function createBaklava(element: Element): RendererVue.IBaklavaViewModel {

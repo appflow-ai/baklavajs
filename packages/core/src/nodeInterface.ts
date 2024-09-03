@@ -5,7 +5,7 @@ import {
     PreventableBaklavaEvent,
     IBaklavaEventEmitter,
     IBaklavaTapable,
-} from "@baklavajs/events";
+} from "@onegen-baklavajs/events";
 
 export interface INodeInterfaceState<T> extends Record<string, any> {
     id: string;

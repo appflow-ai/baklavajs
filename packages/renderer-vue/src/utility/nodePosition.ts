@@ -1,4 +1,4 @@
-import { AbstractNode } from "@baklavajs/core";
+import { AbstractNode } from "@onegen-baklavajs/core";
 
 export function getNodePosition(node: AbstractNode): { x: number; y: number } {
     return node.position;

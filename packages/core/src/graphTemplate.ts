@@ -1,5 +1,5 @@
 import { v4 as uuidv4 } from "uuid";
-import { BaklavaEvent, SequentialHook } from "@baklavajs/events";
+import { BaklavaEvent, SequentialHook } from "@onegen-baklavajs/events";
 import type { IConnectionState } from "./connection";
 import type { Editor } from "./editor";
 import { Graph, IGraphState } from "./graph";

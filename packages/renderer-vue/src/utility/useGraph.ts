@@ -1,5 +1,5 @@
 import { Ref, toRef } from "vue";
-import { Graph } from "@baklavajs/core";
+import { Graph } from "@onegen-baklavajs/core";
 import { useViewModel } from "./useViewModel";
 import { SwitchGraph } from "../graph/switchGraph";
 
